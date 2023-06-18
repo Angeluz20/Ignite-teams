@@ -40,7 +40,7 @@ Aplicativo é focado na organização de times separados por turmas(grupos)
 **Screen 3 -> Adicionar Players**
 
 <p align="center">
-  <img src = "./readme-assets/tela3.png" width=300>
+  <img src = "./readme-assets/tela-3.png" width=300>
 </p>
 
 ## Recursos
