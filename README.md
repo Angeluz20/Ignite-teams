@@ -53,7 +53,7 @@ Aplicativo é focado na organização de times separados por turmas(grupos)
 
 
 <p align="center">
-  <img src = "./readme-assets/gif-2.gif" width=750>
+  <img src = "./readme-assets/video.gif" width=850>
 </p>
 ## Build Process
 
