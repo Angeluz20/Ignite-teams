@@ -50,6 +50,11 @@ Aplicativo é focado na organização de times separados por turmas(grupos)
 * Filtrar players entre Time A e Time B 
 * Remover Players
 * Remover Turmas
+
+
+<p align="center">
+  <img src = "./readme-assets/gif-app.gif" width=550>
+</p>
 ## Build Process
 
 - Entre no [React Native Guide](https://reactnative.dev/docs/environment-setup) para começar a construir um projeto com código nativo. **Um Mac é necessário se você deseja desenvolver para iOS.**
