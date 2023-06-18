@@ -28,19 +28,19 @@ Aplicativo é focado na organização de times separados por turmas(grupos)
 **Screen 1 -> Turmas**
 
 <p align="center">
-  <img src = "./readme-assets/turmas.png" width=500>
+  <img src = "./readme-assets/tela1.png" width=300>
 </p>
 
 **Screen 2 -> Criar turma**
 
 <p align="center">
-  <img src = "./readme-assets/criar-turmas.png" width=500>
+  <img src = "./readme-assets/tela2.png" width=300>
 </p>
 
 **Screen 3 -> Adicionar Players**
 
 <p align="center">
-  <img src = "./readme-assets/players.png" width=500>
+  <img src = "./readme-assets/tela3.png" width=300>
 </p>
 
 ## Recursos
