@@ -23,10 +23,37 @@
 <!-- [![Build Status](https://travis-ci.org/gitpoint/git-point-site.svg?branch=master&status=passed)](https://travis-ci.org/gitpoint/git-point-site.svg?branch=master) -->
 
 
-Aplicativo totalmente funcional de gerenciamento de filmes, feito totalmente em React Native e com a API do The Movie Database API, feita totalmente sem usar nem aparato pago.
+Aplicativo é focado na organização de times separados por turmas(grupos)
 
-**Disponivel Para Android**
+**Screen 1 -> Turmas**
 
 <p align="center">
   <img src = "./readme-assets/turmas.png" width=500>
 </p>
+
+**Screen 2 -> Criar turma**
+
+<p align="center">
+  <img src = "./readme-assets/criar-turmas.png" width=500>
+</p>
+
+**Screen 3 -> Adicionar Players**
+
+<p align="center">
+  <img src = "./readme-assets/players.png" width=500>
+</p>
+
+## Recursos
+
+* Criar turmas
+* Adicionar players
+* Filtrar players entre Time A e Time B 
+* Remover Players
+* Remover Turmas
+## Build Process
+
+- Entre no [React Native Guide](https://reactnative.dev/docs/environment-setup) para começar a construir um projeto com código nativo. **Um Mac é necessário se você deseja desenvolver para iOS.**
+- Clone ou Baixe o repositorio
+- `yarn` ou `npm` para instalar as dependecias -> exemplo: yarn install ou npm install
+- `npx react-native run-android` para inicar o projeto 
+
